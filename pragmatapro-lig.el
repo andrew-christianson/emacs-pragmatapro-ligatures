@@ -3,7 +3,7 @@
 ;; Author: lumiknit (aasr4r4@gmail.com)
 ;; Maintainer: Andrew Christianson
 ;; Version: 20200211
-;; Package-Requires: (dependencies)
+;; Package-Requires: (emacs "27")
 ;; Homepage: https://github.com/andrew-christianson/emacs-pragmatapro-ligatures
 ;; Keywords: keywords
 
